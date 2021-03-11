@@ -1,0 +1,5 @@
+.guilabel, .menuselection {
+    border: black;
+    border-width: thin;
+    border-style: dashed;
+}
